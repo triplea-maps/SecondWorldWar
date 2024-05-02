@@ -1,0 +1,43 @@
+Berlin  (2970,1089)
+
+Bangkok  (5890,2761)
+
+Toyko  (7183,1936)
+Shanghai  (6496,1993)
+
+Stalingrad  (4143,1300)
+
+Leningrad  (3653,592)
+
+Bombay  (4861,2550)
+
+Moscow  (3887,852)
+Hong Kong  (6314,2468)
+
+Cairo  (3612,2342)
+
+Capetown  (3164,4647)
+Calcutta  (5328,2400)
+London  (2295,820)
+
+Napoli  (2883,1909)
+
+Bucerest  (3389,1665)
+
+Ottawa  (706,887)
+
+Sydney  (7914,4703)
+
+Perth  (6758,4695)
+
+San Fransico  (9326,1217)
+Honolulu  (8732,2172)
+
+Manila  (6658,2920)
+
+Washington D.C.  (611,1265)
+Paris  (2491,1248)
+
+Madrid  (2176,1742)
+
+Western Poland  (3251,1210)

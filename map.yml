@@ -1,0 +1,4 @@
+map_name: SecondWorldWar
+games:
+- {game_name: Second World War, file_name: SecondWorldWar.xml}
+version: 0
